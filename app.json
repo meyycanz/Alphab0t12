@@ -1,0 +1,6 @@
+ "name": "meyybot",
+  "version": "12.1.0",
+  "description": "WhatsApp bot",
+  "zeeone": "zeeone.js",
+  "directories": {
+    "lib": "lib"
